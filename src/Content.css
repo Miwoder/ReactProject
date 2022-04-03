@@ -1,0 +1,11 @@
+#scroll-view {
+    width: 250px;
+    max-height: 700px
+}
+
+#scr {
+    max-height: 700px;
+    margin-bottom: 10px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
